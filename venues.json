@@ -1,0 +1,58 @@
+[
+  {
+    "id": "v1",
+    "name": "VIDA CAFÉ",
+    "category": "Cafetería cultural",
+    "city": "Metepec",
+    "address": "Calle Ignacio Zaragoza 116, Espíritu Santo, 52140 Metepec, Estado de México, México",
+    "image": null,
+    "bio": "Actividades artísticas registradas en septiembre de 2026: diplomado de arte para niños, linograbado, cómic, cianotipia, graffiti y pintura al óleo.",
+    "tags": [
+      "Cafetería cultural"
+    ],
+    "status": "Investigado",
+    "source": "Fase 1, pp. 32–36"
+  },
+  {
+    "id": "v2",
+    "name": "FIGORET",
+    "category": "Cafetería / espacio",
+    "city": "Toluca",
+    "address": "Calle Mariano Matamoros 1201, Universidad, 50130 Toluca de Lerdo, Estado de México, México",
+    "image": null,
+    "bio": "En la investigación se documentó una tarde de música en vivo y promoción de bebidas.",
+    "tags": [
+      "Cafetería / espacio"
+    ],
+    "status": "Investigado",
+    "source": "Fase 1, pp. 32–36"
+  },
+  {
+    "id": "v3",
+    "name": "Diorama",
+    "category": "Espacio creativo",
+    "city": "San Jerónimo Chicahualco",
+    "address": "Calle Prado Norte 10, Casa Blanca, 52175 San Jerónimo Chicahualco, Estado de México, México",
+    "image": null,
+    "bio": "En la investigación se documentó un taller de dibujo creativo y acuarela.",
+    "tags": [
+      "Espacio creativo"
+    ],
+    "status": "Investigado",
+    "source": "Fase 1, pp. 32–36"
+  },
+  {
+    "id": "v4",
+    "name": "Museo Taller Luis Nishizawa",
+    "category": "Museo / espacio cultural",
+    "city": "Toluca",
+    "address": "",
+    "image": null,
+    "bio": "En la investigación se documentó el concierto «Recuerdos Mexicanos». La Fase 1 no consigna dirección postal.",
+    "tags": [
+      "Museo / espacio cultural"
+    ],
+    "status": "Investigado",
+    "source": "Fase 1, pp. 32–36"
+  }
+]

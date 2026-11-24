@@ -1,0 +1,223 @@
+[
+  {
+    "id": "a1",
+    "name": "Emil Herdez",
+    "category": "Música",
+    "city": "Área de Toluca y Metepec",
+    "image": null,
+    "bio": "Compositor y productor de electrónica. sencillo «Flo-re-cer» y sets de electrónica en vivo.",
+    "tags": [
+      "Electrónica"
+    ],
+    "status": "Investigado",
+    "source": "Fase 1, pp. 30–31",
+    "photo": "/static/assets/artists/a1.jpg",
+    "instagram": "https://www.instagram.com/emilherdez",
+    "spotify": "https://open.spotify.com/intl-es/artist/1FtuXfnh2dYAUmNhq9MsTi",
+    "linktree": "https://linktr.ee/EmilHerdez"
+  },
+  {
+    "id": "a2",
+    "name": "Muri",
+    "category": "Música",
+    "city": "Área de Toluca y Metepec",
+    "image": null,
+    "bio": "Cantante y productor. catálogo publicado en Spotify.",
+    "tags": [
+      "Cantautor"
+    ],
+    "status": "Investigado",
+    "source": "Fase 1, pp. 30–31",
+    "photo": "/static/assets/artists/a2.jpg",
+    "instagram": "https://www.instagram.com/murimuricio",
+    "spotify": "https://open.spotify.com/intl-es/artist/2PtvuDtM6VbgmCaDY5kcJa"
+  },
+  {
+    "id": "a3",
+    "name": "Sofia Laguez",
+    "category": "Música",
+    "city": "Área de Toluca y Metepec",
+    "image": null,
+    "bio": "Cantautora. concierto en vivo documentado.",
+    "tags": [
+      "Cantautora"
+    ],
+    "status": "Investigado",
+    "source": "Fase 1, pp. 30–31",
+    "photo": "/static/assets/artists/a3.jpg",
+    "instagram": "https://www.instagram.com/sofia_laguezz",
+    "spotify": "https://open.spotify.com/intl-es/artist/5c5tBpKKKXZzvwHfTA0XgA",
+    "linktree": "https://linktr.ee/sofia_laguez"
+  },
+  {
+    "id": "a4",
+    "name": "Abril DVD",
+    "category": "Música",
+    "city": "Área de Toluca y Metepec",
+    "image": null,
+    "bio": "Cantautora. cinco sencillos publicados y canción «Dime».",
+    "tags": [
+      "Cantautora"
+    ],
+    "status": "Investigado",
+    "source": "Fase 1, pp. 30–31",
+    "photo": "/static/assets/artists/a4.jpg",
+    "instagram": "https://www.instagram.com/abrildvd",
+    "spotify": "https://open.spotify.com/intl-es/artist/23PK9ZBdSz2exPNCypLb1a"
+  },
+  {
+    "id": "a5",
+    "name": "Phia",
+    "category": "Música",
+    "city": "Área de Toluca y Metepec",
+    "image": null,
+    "bio": "Cantautora. contenido de estudio y narrativa artística en redes.",
+    "tags": [
+      "Cantautora"
+    ],
+    "status": "Investigado",
+    "source": "Fase 1, pp. 30–31",
+    "photo": "/static/assets/artists/a5.jpg",
+    "instagram": "https://www.instagram.com/phiaa.wav",
+    "spotify": "https://open.spotify.com/intl-es/artist/4bhnp38C6QYHG3bvyCVTGq"
+  },
+  {
+    "id": "a6",
+    "name": "Over Time",
+    "category": "Música",
+    "city": "Área de Toluca y Metepec",
+    "image": null,
+    "bio": "Banda. presentaciones en Cuernavaca y Foro 304, Toluca.",
+    "tags": [
+      "Banda"
+    ],
+    "status": "Investigado",
+    "source": "Fase 1, pp. 30–31",
+    "photo": "/static/assets/artists/a6.jpg",
+    "instagram": "https://www.instagram.com/over_timeofficial",
+    "spotify": "https://open.spotify.com/intl-es/artist/1KgJWbXyVYvRN0Jz3fvLku"
+  },
+  {
+    "id": "a7",
+    "name": "Sof Gamboa",
+    "category": "Música",
+    "city": "Área de Toluca y Metepec",
+    "image": null,
+    "bio": "Cantante de R&B y neo soul. EP «amar(me)» (2026) y entrevistas digitales.",
+    "tags": [
+      "R&B"
+    ],
+    "status": "Investigado",
+    "source": "Fase 1, pp. 30–31",
+    "photo": "/static/assets/artists/a7.jpg",
+    "instagram": "https://www.instagram.com/sof.musica",
+    "spotify": "https://open.spotify.com/intl-es/artist/1EreXebw4JrAh1PhDSOedl"
+  },
+  {
+    "id": "a8",
+    "name": "Divino G",
+    "category": "Música",
+    "city": "Área de Toluca y Metepec",
+    "image": null,
+    "bio": "Artista musical. presencia mediática y presencia en redes sociales.",
+    "tags": [
+      "Música"
+    ],
+    "status": "Investigado",
+    "source": "Fase 1, pp. 30–31",
+    "photo": "/static/assets/artists/a8.jpg",
+    "instagram": "https://www.instagram.com/divino_g4",
+    "spotify": "https://open.spotify.com/intl-es/artist/2J3UffSSfelPzalSNRZ5Zk"
+  },
+  {
+    "id": "a9",
+    "name": "Jorhe Eduarho Floreh Garciah",
+    "category": "Música",
+    "city": "Área de Toluca y Metepec",
+    "image": null,
+    "bio": "Cantante y guitarrista de rock acústico. presentaciones en vivo documentadas.",
+    "tags": [
+      "Rock acústico"
+    ],
+    "status": "Investigado",
+    "source": "Fase 1, pp. 30–31",
+    "photo": "/static/assets/artists/a9.jpg",
+    "instagram": "https://www.instagram.com/jefg_360",
+    "spotify": "https://open.spotify.com/intl-es/artist/77rezxpc3kfVJDo3XdaXM4"
+  },
+  {
+    "id": "a10",
+    "name": "Otrodiego_cru",
+    "category": "Arte visual",
+    "city": "Área de Toluca y Metepec",
+    "image": null,
+    "bio": "Dibujante e ilustrador. obra en tinta y blog personal.",
+    "tags": [
+      "Ilustración"
+    ],
+    "status": "Investigado",
+    "source": "Fase 1, pp. 30–31",
+    "photo": "/static/assets/artists/a10.jpg",
+    "instagram": "https://www.instagram.com/otrodiego_cru"
+  },
+  {
+    "id": "a11",
+    "name": "Cosa de Santos",
+    "category": "Arte visual",
+    "city": "Área de Toluca y Metepec",
+    "image": null,
+    "bio": "Grafitero multidisciplinario. talleres de grafiti y técnicas de aerosol, óleo, acrílico y serigrafía.",
+    "tags": [
+      "Grafiti"
+    ],
+    "status": "Investigado",
+    "source": "Fase 1, pp. 30–31",
+    "photo": "/static/assets/artists/a11.jpg",
+    "instagram": "https://www.instagram.com/cosa_de_santos_"
+  },
+  {
+    "id": "a12",
+    "name": "Alejandro Bocanegra",
+    "category": "Arte visual",
+    "city": "Área de Toluca y Metepec",
+    "image": null,
+    "bio": "Pintor de acuarela y óleo. exposición individual «Jaulas» y talleres.",
+    "tags": [
+      "Pintura"
+    ],
+    "status": "Investigado",
+    "source": "Fase 1, pp. 30–31",
+    "photo": "/static/assets/artists/a12.jpg",
+    "instagram": "https://www.instagram.com/abocanegra17"
+  },
+  {
+    "id": "a13",
+    "name": "Luccalapiz",
+    "category": "Arte visual",
+    "city": "Área de Toluca y Metepec",
+    "image": null,
+    "bio": "Artista visual. participación en exposición colectiva.",
+    "tags": [
+      "Arte visual"
+    ],
+    "status": "Investigado",
+    "source": "Fase 1, pp. 30–31",
+    "photo": "/static/assets/artists/a13.jpg",
+    "instagram": "https://www.instagram.com/luccalapiz"
+  },
+  {
+    "id": "a14",
+    "name": "Isaura García",
+    "category": "Arte visual",
+    "city": "Área de Toluca y Metepec",
+    "image": null,
+    "bio": "Artista plástica, pintura y fanzines. participación en festival cultural en CDMX.",
+    "tags": [
+      "Pintura"
+    ],
+    "status": "Investigado",
+    "source": "Fase 1, pp. 30–31",
+    "photo": "/static/assets/artists/a14.jpg",
+    "instagram": "https://www.instagram.com/isaura.garciaart"
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "id": "e1",
+    "name": "Diplomado de arte para niños",
+    "category": "Artes visuales",
+    "date": "2026-09-01",
+    "time": "17:00",
+    "venue": "v1",
+    "artist": null,
+    "image": null,
+    "price": "No documentado",
+    "bio": "Taller de arte dirigido a infantes de 6 a 11 años; sesiones de septiembre los martes 1, 8, 15, 22 y 29.",
+    "tags": [
+      "Artes visuales"
+    ],
+    "status": "Archivo histórico",
+    "source": "Fase 1, pp. 32–36"
+  },
+  {
+    "id": "e2",
+    "name": "Linograbado y bordado",
+    "category": "Artes visuales",
+    "date": "2026-09-10",
+    "time": "18:00",
+    "venue": "v1",
+    "artist": null,
+    "image": null,
+    "price": "No documentado",
+    "bio": "Taller de iniciación al linograbado y bordado, dirigido a mayores de 13 años; materiales incluidos según la investigación.",
+    "tags": [
+      "Artes visuales"
+    ],
+    "status": "Archivo histórico",
+    "source": "Fase 1, pp. 32–36"
+  },
+  {
+    "id": "e3",
+    "name": "Taller de cómic",
+    "category": "Artes visuales",
+    "date": "2026-09-11",
+    "time": "19:00",
+    "venue": "v1",
+    "artist": null,
+    "image": null,
+    "price": "No documentado",
+    "bio": "Taller para crear una historia corta de hasta seis viñetas.",
+    "tags": [
+      "Artes visuales"
+    ],
+    "status": "Archivo histórico",
+    "source": "Fase 1, pp. 32–36"
+  },
+  {
+    "id": "e4",
+    "name": "Taller de cianotipia",
+    "category": "Artes visuales",
+    "date": "2026-09-19",
+    "time": "13:00",
+    "venue": "v1",
+    "artist": null,
+    "image": null,
+    "price": "No documentado",
+    "bio": "Taller de técnica artesanal de impresión fotográfica en tonos azules.",
+    "tags": [
+      "Artes visuales"
+    ],
+    "status": "Archivo histórico",
+    "source": "Fase 1, pp. 32–36"
+  },
+  {
+    "id": "e5",
+    "name": "Taller de graffiti",
+    "category": "Arte urbano",
+    "date": "2026-09-20",
+    "time": "",
+    "venue": "v1",
+    "artist": null,
+    "image": null,
+    "price": "No documentado",
+    "bio": "Actividad de graffiti documentada en la Fase 1. No se especifica horario.",
+    "tags": [
+      "Arte urbano"
+    ],
+    "status": "Archivo histórico",
+    "source": "Fase 1, pp. 32–36"
+  },
+  {
+    "id": "e6",
+    "name": "Taller intensivo de pintura al óleo",
+    "category": "Artes visuales",
+    "date": "",
+    "time": "",
+    "venue": "v1",
+    "artist": null,
+    "image": null,
+    "price": "No documentado",
+    "bio": "Taller de tres meses, sábados y domingos de 10:00 a 13:00. Fechas exactas no especificadas en el documento.",
+    "tags": [
+      "Artes visuales"
+    ],
+    "status": "Archivo histórico",
+    "source": "Fase 1, pp. 32–36"
+  },
+  {
+    "id": "e7",
+    "name": "Tarde de música en vivo — FIGORET",
+    "category": "Música",
+    "date": "2026-09-11",
+    "time": "17:00",
+    "venue": "v2",
+    "artist": null,
+    "image": null,
+    "price": "No documentado",
+    "bio": "Música en vivo y promoción 2×1 en bebidas, según registro histórico.",
+    "tags": [
+      "Música"
+    ],
+    "status": "Archivo histórico",
+    "source": "Fase 1, pp. 32–36"
+  },
+  {
+    "id": "e8",
+    "name": "Taller de dibujo creativo y acuarela",
+    "category": "Artes visuales",
+    "date": "",
+    "time": "",
+    "venue": "v3",
+    "artist": null,
+    "image": null,
+    "price": "No documentado",
+    "bio": "Taller de dibujo y acuarela con materiales incluidos. La Fase 1 no indica fecha.",
+    "tags": [
+      "Artes visuales"
+    ],
+    "status": "Archivo histórico",
+    "source": "Fase 1, pp. 32–36"
+  },
+  {
+    "id": "e9",
+    "name": "Tarde de música en vivo — registro de septiembre",
+    "category": "Música",
+    "date": "2026-09-12",
+    "time": "18:00",
+    "venue": "",
+    "artist": null,
+    "image": null,
+    "price": "No documentado",
+    "bio": "Actividad registrada en la Fase 1; el documento no permite atribuir con certeza el espacio.",
+    "tags": [
+      "Música"
+    ],
+    "status": "Archivo histórico",
+    "source": "Fase 1, pp. 32–36"
+  },
+  {
+    "id": "e10",
+    "name": "Concierto «Recuerdos Mexicanos»",
+    "category": "Música",
+    "date": "2026-09-12",
+    "time": "13:00",
+    "venue": "v4",
+    "artist": null,
+    "image": null,
+    "price": "No documentado",
+    "bio": "Concierto registrado en Museo Taller Luis Nishizawa.",
+    "tags": [
+      "Música"
+    ],
+    "status": "Archivo histórico",
+    "source": "Fase 1, pp. 32–36"
+  }
+]

@@ -1,0 +1,5 @@
+Flask>=3.0,<4
+Werkzeug>=3.0,<4
+stripe>=11,<15
+Flask-Limiter>=3.8,<5
+gunicorn>=22,<25
